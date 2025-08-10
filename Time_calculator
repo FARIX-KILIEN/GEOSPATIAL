@@ -1,0 +1,31 @@
+def add_time(start, duration, day=None):
+#declare variable
+    start_hours = start.split(':')
+    print(start_hours)
+# convert to 24h format
+
+#  add duration hours and minutes
+
+#handle overflow of minutes
+
+#calculate days later
+
+#convert back to 12h clock format
+
+#handle optional days of the week
+
+#format the final time
+
+#handle next day or day later message
+
+#return a fully formated time
+
+
+
+
+
+
+
+    return
+
+add_time('11:30 AM', '2:32', 'Monday')
